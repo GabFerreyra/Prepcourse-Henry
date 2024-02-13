@@ -1,2 +1,2 @@
-# Prepcourse-Henry
-2do paso sola trabajando en el modulo 2
+este es mi prueba de como crear un repositorio desde github a mi computadora
+
